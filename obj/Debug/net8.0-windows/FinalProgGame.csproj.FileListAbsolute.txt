@@ -20,3 +20,4 @@ C:\Users\Manal\source\repos\FinalProgGame\obj\Debug\net8.0-windows\FinalProgGame
 C:\Users\Manal\source\repos\FinalProgGame\obj\Debug\net8.0-windows\FinalProgGame.Form4.resources
 C:\Users\Manal\source\repos\FinalProgGame\obj\Debug\net8.0-windows\FinalProgGame.Form5.resources
 C:\Users\Manal\source\repos\FinalProgGame\obj\Debug\net8.0-windows\FinalProgGame.Form6.resources
+C:\Users\Manal\source\repos\FinalProgGame\obj\Debug\net8.0-windows\FinalProgGame.sourcelink.json

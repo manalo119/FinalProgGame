@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalProgGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aab971261d8263d29149d36db8200215d8ec6a99")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalProgGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalProgGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
