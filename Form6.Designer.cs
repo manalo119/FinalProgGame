@@ -199,6 +199,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.SkyBlue;
+            BackgroundImage = Properties.Resources.Helebg;
             ClientSize = new Size(918, 499);
             Controls.Add(txtScore);
             Controls.Add(player);

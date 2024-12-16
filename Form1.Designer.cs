@@ -89,7 +89,7 @@
             btnFlyingUFO.BackgroundImageLayout = ImageLayout.Stretch;
             btnFlyingUFO.Font = new Font("Showcard Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnFlyingUFO.ForeColor = Color.FromArgb(0, 192, 192);
-            btnFlyingUFO.Location = new Point(241, 263);
+            btnFlyingUFO.Location = new Point(241, 262);
             btnFlyingUFO.Name = "btnFlyingUFO";
             btnFlyingUFO.Size = new Size(161, 119);
             btnFlyingUFO.TabIndex = 4;
@@ -119,7 +119,6 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = Properties.Resources.bg;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(884, 499);
             Controls.Add(btnPuzzle);
